@@ -1,0 +1,26 @@
+_repo: Das-Nibelungenlied_14915
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2005-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14915'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Epic poetry, German'
+title: Das Nibelungenlied
+url: http://www.gutenberg.org/ebooks/14915
